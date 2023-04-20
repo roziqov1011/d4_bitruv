@@ -1,7 +1,7 @@
 import React from 'react'
 import { AnimatedText, Break, Container, FirstName, Img, ImgContainer, JustWrapper, MiddleText, NamesWrapper, R30Text, Row1, SurName, Wrapper } from './style'
 import AllStudents from '../../assets/students/allstudents.png';
-import AllStudents2 from '../../assets/boburaka/d44.jpg';
+import AllStudents2 from '../../assets/boburaka/baner.jpg';
 import {StudentsData} from  '../../data/students';
 import { useNavigate } from 'react-router-dom';
 
